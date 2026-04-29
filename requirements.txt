@@ -1,0 +1,9 @@
+discord.py
+google-generativeai
+flask
+aiohttp
+PyNaCl
+yt-dlp
+cryptography
+grpcio
+psutil
